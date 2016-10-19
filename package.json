@@ -1,0 +1,23 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "node mysql test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faris-hehe/mysql.git"
+  },
+  "author": "hyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faris-hehe/mysql/issues"
+  },
+  "homepage": "https://github.com/Faris-hehe/mysql#readme",
+  "dependencies": {
+    "mongoose": "^4.6.4",
+    "node-mysql": "^0.4.2"
+  }
+}
